@@ -20,7 +20,6 @@ typedef struct node
     char jobtitle[30];
     int salary;
     char date[30];
-    int numyears;
     node *prev,*next;
     
 }node;
